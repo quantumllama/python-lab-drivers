@@ -1,3 +1,7 @@
+'''
+Function testing and debug for future use
+Tested on Siglent SDG 2042X func gen
+'''
 
 import visa # Import VISA lib
 import time # Import time for waits
