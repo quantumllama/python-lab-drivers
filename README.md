@@ -5,4 +5,5 @@ Lab automation through Python and PyVISA
 -
 
 ## Instruments with planned support:
-- 
+- Siglent SDG 2042X
+- Siglent SDS 1202X
